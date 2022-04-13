@@ -2,7 +2,7 @@
 
 
 ## Demonstrates Making API CALLS
-### API ENDPOINT USED 
+### API ENDPOINTS USED 
 [Coffe API -random pictures of Coffe](https://coffee.alexflipnote.dev/random.json')
 #
 [Random Anime Photos- anime Facts](https://anime-facts-rest-api.herokuapp.com/api/v1)
