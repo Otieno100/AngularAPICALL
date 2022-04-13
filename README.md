@@ -11,11 +11,11 @@
 
 ## Installation instructions
 1. Clone the project from the repo
-    git clone [https://github.com/otienosteve/AngularAPICALL.git](https://github.com/otienosteve/AngularAPICALL.git)
-    git clone [git@github.com:otienosteve/AngularAPICALL.git](git@github.com:otienosteve/AngularAPICALL.git)
+    - git clone [https://github.com/otienosteve/AngularAPICALL.git](https://github.com/otienosteve/AngularAPICALL.git)
+   - or  git clone [git@github.com:otienosteve/AngularAPICALL.git](git@github.com:otienosteve/AngularAPICALL.git) if you are using SSH
 2. Make Sure you have Node and angular installed
-    If not download Node from the officaial website and 
-    run npm install -g @angular/cli
+    - If not download Node from the officaial website and 
+   - run npm install -g @angular/cli
 3. run npm install 
 4. run ng serve --open
 
